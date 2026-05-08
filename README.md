@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mariana Castellanos 👋
 
-<!--
-**MarianaCastellanosM/MarianaCastellanosM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with 2+ years at Deloitte building ETL pipelines for 
+financial environments — now expanding into Data Analytics and Data Science.
 
-Here are some ideas to get you started:
+Actuarial Science background, which means I think in terms of risk, 
+distributions, and business impact, not just pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Core:** SQL / PL-SQL · Python (pandas, numpy) · Snowflake · Oracle  
+**ETL & Orchestration:** IBM DataStage · AutoSys  
+**Cloud & BI:** AWS · Power BI · Excel (Advanced)  
+**Growing into:** Scikit-learn · Statistics & ML modeling · dbt  
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔧 [ETL Pipeline – Financial Data](#) | End-to-end pipeline with data quality checks | Python · Snowflake · dbt |
+| 📊 [EDA – ](#) | Exploratory analysis with business storytelling | Pandas · Plotly |
+| 🤖 [ML Pipeline – ](#) | Predictive model + data pipeline | Scikit-learn · Python |
+
+*(Updating regularly — check back soon)*
+
+---
+
+## 🎓 Certifications
+
+- ☁️ AWS Certified Cloud Practitioner
+- 📊 Microsoft Power BI Data Analyst Associate  
+- 🐍 PCED™ Certified Data Analyst with Python
+- 🐍 PCEP™ Certified Python Programmer
+
+---
+
+## 📫 Let's connect
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariana_Castellanos-blue?logo=linkedin)https://www.linkedin.com/in/mariana-castellanos-montero-a4a070203/
+
+![Credly](https://img.shields.io/badge/Credly-Badges-orange?logo=credly)https://www.credly.com/users/mariana-castellanos.360c54ab

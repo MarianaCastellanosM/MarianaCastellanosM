@@ -21,9 +21,9 @@ distributions, and business impact, not just pipelines.
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 [ETL Pipeline – Financial Data](#) | End-to-end pipeline with data quality checks | Python · Snowflake · dbt |
-| 📊 [EDA – ](#) | Exploratory analysis with business storytelling | Pandas · Plotly |
-| 🤖 [ML Pipeline – ](#) | Predictive model + data pipeline | Scikit-learn · Python |
+| 🌤️ [ETL Weather Pipeline](https://github.com/MarianaCastellanosM/etl-weather-pipeline) | End-to-end ETL pipeline extracting weather data for 4 Mexican cities via REST API | Python · Pandas · REST API |
+| 📊 EDA – Coming soon | Exploratory analysis with business storytelling | Pandas · Plotly |
+| 🤖 ML Pipeline – Coming soon | Predictive model + data pipeline | Scikit-learn · Python |
 
 *(Updating regularly — check back soon)*
 

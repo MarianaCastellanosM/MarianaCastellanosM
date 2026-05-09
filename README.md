@@ -22,6 +22,7 @@ distributions, and business impact, not just pipelines.
 | Project | Description | Stack |
 |---|---|---|
 | 🌤️ [ETL Weather Pipeline](https://github.com/MarianaCastellanosM/etl-weather-pipeline) | End-to-end ETL pipeline extracting weather data for 4 Mexican cities via REST API | Python · Pandas · REST API |
+| 🌤️ [ETL Countries Pipeline](https://github.com/MarianaCastellanosM/etl-countries-pipeline.git) | End-to-end ETL pipeline extracting countries data of all the world via REST API | Python · Pandas · REST API |
 | 📊 EDA – Coming soon | Exploratory analysis with business storytelling | Pandas · Plotly |
 | 🤖 ML Pipeline – Coming soon | Predictive model + data pipeline | Scikit-learn · Python |
 
